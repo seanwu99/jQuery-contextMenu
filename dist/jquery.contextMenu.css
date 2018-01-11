@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
  * jQuery contextMenu - Plugin for simple contextMenu handling
  *
@@ -54,8 +54,8 @@
   font-style: normal; 
   font-weight: normal;
 
-  src: url("font/context-menu-icons.eot?2wp27");
-  src: url("font/context-menu-icons.eot?2wp27#iefix") format("embedded-opentype"), url("font/context-menu-icons.woff2?2wp27") format("woff2"), url("font/context-menu-icons.woff?2wp27") format("woff"), url("font/context-menu-icons.ttf?2wp27") format("truetype");
+  src: url("font/context-menu-icons.eot");
+  src: url("font/context-menu-icons.eot") format("embedded-opentype"), url("font/context-menu-icons.woff2") format("woff2"), url("font/context-menu-icons.woff") format("woff"), url("font/context-menu-icons.ttf") format("truetype");
 }
 
 .context-menu-icon-add:before {
